@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Michael 👋
 
-<!--
-**reesmichael1/reesmichael1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Programmer moonlighting as organist, or maybe the other way around.
 
-Here are some ideas to get you started:
+I have worked at all levels of the tech stack, spanning from raw assembly to web services. I particularly enjoy systems programming and adjacent topics. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my favorite projects include:
+
+- [Burro](https://github.com/reesmichael1/burro), a new typesetting language
+- [revocatio](https://github.com/reesmichael1/revocatio), a health monitor for your backups 
+- [WebWhir](https://github.com/reesmichael1/2webshir), an HTML rendering engine
+
+I started my career working as a software developer at [Saracen Energy](https://saracenenergy.com) and at Ibira Capital Managemnet. I also worked as a professional organist at one of the largest music programs in the United States for several years. Following my time in music, I've most recently done a batch at the [Recurse Center](https://recurse.com).
